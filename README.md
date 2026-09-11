@@ -4,9 +4,8 @@ Aplicativo web inteligente desenvolvido em Python com **Whisper** e **Gradio** p
 
 ##  Principais Funcionalidades
 - **Transcrição Automática:** Processamento de áudios (via microfone ou upload) utilizando o modelo Whisper.
-- **Interface Limpa e Intuitiva:** Desenvolvida em Gradio com tema personalizado (`Monochrome` em tons de roxo), sem menus suspensos complexos.
+- **Interface Limpa e Intuitiva:** Desenvolvida em Gradio.
 - **Biblioteca de Aulas Salvas:** Listagem explícita e interativa das aulas salvas na pasta persistente, permitindo visualizar o conteúdo completo e realizar o download individual por arquivo.
-- **Preservação de Dados:** Os arquivos salvos são mantidos no ambiente do Colab e recuperados automaticamente a cada atualização da página.
 
 ##  Tecnologias Utilizadas
 - **Python**
